@@ -21,4 +21,4 @@ HTML/CSS (for Razor page UI)
 
 .NET dependency injection and middleware pipeline
 
-This was great starter project to understand how Razor Pages apps are structured, configured, and run in a real-world setting. It was ideal for me to learn and develope while to getting hands-on with ASP.NET Core’s modern approach to web development.
+This was great starter project to understand how Razor Pages apps are structured, configured, and run in a real-world setting. It was ideal for me to learn and develope while getting hands-on experience with ASP.NET Core’s modern approach to web development.
